@@ -1,5 +1,5 @@
 # RoboCup2019
-Fully Convolutional Neural Network for Soccer ball Localization
+Utilizing Temporal Information in Deep Convolutional Network for Efficient Soccer Ball Detection and Tracking
 
 # Usage
 prepare datasets
